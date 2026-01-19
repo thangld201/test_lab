@@ -1,15 +1,14 @@
 ---
 ---
 
-# thangld201's Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the RiTUAL Lab!
 
 {% include section.html %}
 
-## Highlights
+<!-- ## Highlights -->
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -34,9 +33,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
-{%
+<!-- {%
   include button.html
   link="projects"
   text="Browse our projects"
@@ -57,13 +56,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
+{% capture text %} -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{%
+<!-- {%
   include button.html
-  link="team"
+  link="members"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -78,4 +76,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="team"
   title="Our Team"
   text=text
-%}
+%} -->
