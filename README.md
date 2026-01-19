@@ -5,6 +5,6 @@
 
   # thangld201's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[thangld201.github.io/test_lab](https://thangld201.github.io/test_lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
