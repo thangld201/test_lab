@@ -4,9 +4,9 @@
 
 Welcome to the RiTUAL Lab!
 
+{% include section.html %}
 
 {% comment %}
-{% include section.html %}
 
 <!-- ## Highlights -->
 
