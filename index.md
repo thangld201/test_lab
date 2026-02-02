@@ -2,7 +2,7 @@
 ---
 
 
-Welcome to the RiTUAL Lab!
+We are a multidisciplinary research group based in Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) focused on advancing the state of the art in NLP. Our team combines expertise from various domains to tackle complex scientific challenges and publish high‑impact research.
 
 {% include section.html %}
 
