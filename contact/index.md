@@ -22,12 +22,12 @@ nav:
   link="+1-555-867-5309"
 %} -->
 
-<!-- {%
+{%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%} -->
+  link="https://www.google.com/maps/place/Mohamed+bin+Zayed+University+of+Artificial+Intelligence/@24.4326227,54.6184724,899m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3e5e48af75e21805:0x649441d6f389bc86!8m2!3d24.4326227!4d54.6184724!16s%2Fg%2F11fqskmr8h?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoASAFQAw%3D%3D"
+%}
 
 {% include section.html %}
 
