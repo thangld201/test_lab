@@ -12,7 +12,7 @@ nav:
 {%
   include button.html
   type="email"
-  text="thamar.solorio@mbzuai.ac.ae"
+  text="Email"
   link="thamar.solorio@mbzuai.ac.ae"
 %}
 <!-- {%
